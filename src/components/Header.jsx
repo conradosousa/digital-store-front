@@ -32,9 +32,9 @@ const Header = () => {
 
             <nav>
                 <a href="/" className="active">Home</a>
-                <a href="/Produtos"></a>
-                <a href="/Categorias"></a>
-                <a href="/Meus Pedidos"></a>
+                <a href="/Produtos">Produtos</a>
+                <a href="/Categorias">Categorias</a>
+                <a href="/Meus Pedidos">Meus Pedidos</a>
             </nav>
         </header>
     );
